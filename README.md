@@ -1,1 +1,2 @@
 # RoyalSoftSellingSystem
+Purchase Invoice System 🧾💰: Allows creating purchase invoices with product details 📦, price 💵, discount 💸, tax 🧾, and net total 🏷️. Manages suppliers 👥 and links them to invoices. Validates data ✅ before saving. Checklist for core features: Create invoice Add products Manage supplier Calculate totals Pending features: Reporting 📊 Printing 🖨️ Dashboard 📈 Notifications 🔔
