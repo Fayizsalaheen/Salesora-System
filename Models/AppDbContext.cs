@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 
-namespace RoyalSoftSellingSystem.Models;
+namespace Backend_Salesora_System.Models;
 
 public partial class AppDbContext : DbContext
 {

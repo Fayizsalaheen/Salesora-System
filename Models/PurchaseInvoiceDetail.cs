@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace RoyalSoftSellingSystem.Models;
+namespace Backend_Salesora_System.Models;
 
 public partial class PurchaseInvoiceDetail
 {

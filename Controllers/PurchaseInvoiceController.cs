@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using RoyalSoftSellingSystem.DTO;
-using RoyalSoftSellingSystem.Services;
-namespace RoyalSoftSellingSystem.Controllers
+using Backend_Salesora_System.DTO;
+namespace Backend_Salesora_System.Controllers
 {
+     
     [ApiController]
     [Route("api/[controller]")]
     public class PurchaseInvoiceController : ControllerBase

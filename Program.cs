@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using RoyalSoftSellingSystem.Models;
-using RoyalSoftSellingSystem.Services;
+using Backend_Salesora_System.Models;
+using Backend_Salesora_System;
 
 var builder = WebApplication.CreateBuilder(args);
 

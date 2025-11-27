@@ -1,8 +1,8 @@
-﻿using RoyalSoftSellingSystem.DTO;
-using RoyalSoftSellingSystem.Models;
+﻿using Backend_Salesora_System.DTO;
+using Backend_Salesora_System.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace RoyalSoftSellingSystem.Services
+namespace Backend_Salesora_System
 {
     public class PurchaseInvoiceService
     {
